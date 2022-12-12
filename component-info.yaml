@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: cra239
+  name cra239
   description: test239
 spec:
   type: website
